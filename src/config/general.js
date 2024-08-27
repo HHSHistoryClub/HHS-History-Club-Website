@@ -1,20 +1,20 @@
 // ** For more information on how to edit the config, please read the README.md ** //
 // https://github.com/underscorelior/HHS-Club-Template?tab=readme-ov-file#general-club-info-srcconfiggeneraljs
 
-const club_name = 'Template Club';
+const club_name = 'History Club';
 
 const club_website_description =
-	'Template website for various clubs at Homestead High School';
+	"Welcome to Homestead History Club's website!";
 
 const club_icon = '/logo.png';
 
-const club_email = 'example@mail.com';
+const club_email = 'homesteadhistoryclub@gmail.com';
 
-const signup_form = 'https://forms.google.com';
+const signup_form = 'https://docs.google.com/forms/d/e/1FAIpQLSdof_csU-0cvoxj7Mo-4VStSO7Sci2QX1JiAQG4gZEJihbEEA';
 
-const discord_url = 'dCqnBzeqUV';
+const discord_url = 'BqNeqjkU8A';
 
-const instagram_handle = 'zuck';
+const instagram_handle = 'homestead_history';
 
 // *** DO NOT EDIT *** //
 const general_config = {
