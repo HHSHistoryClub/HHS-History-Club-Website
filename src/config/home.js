@@ -2,7 +2,7 @@
 // https://github.com/underscorelior/HHS-Club-Template?tab=readme-ov-file#about-section-srcconfigaboutjs
 
 const description = `Homestead High School's history club. 
-We discuss general history, cover course content for APUSH and AP US Government, and we also play history bowl..`;
+We discuss general history, cover course content for APUSH and AP US Government, and we also play history bowl.`;
 
 const secondary_button = {
 	display: false,
