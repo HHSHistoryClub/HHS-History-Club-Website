@@ -14,7 +14,7 @@ import { CarouselImageCard } from '@/components/carousel-image-card';
 export default function Home() {
 	return (
 		<main className='flex flex-col gap-y-12 h-full mt-[2.5dvh] lg:-mt-[10dvh]'>
-			<div className='lg:mt-[10rem] text-sm lg:grid lg:grid-cols-[55%,10%,35%] items-center justify-center w-[82.5%] lg:w-[80%] mx-auto'>
+			<div className='lg:mt-[2.5rem] text-sm lg:grid lg:grid-cols-[55%,10%,35%] items-center justify-center w-[82.5%] lg:w-[80%] mx-auto'>
 				<div className='flex flex-col gap-y-6 pt-10 mx-auto'>
 					<div className='flex items-end text-7xl font-bold'>
 						{config.club_name}

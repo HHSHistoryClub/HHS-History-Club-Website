@@ -1,42 +1,33 @@
 // ** For more information on how to edit the config, please read the README.md ** //
 // https://github.com/underscorelior/HHS-Club-Template?tab=readme-ov-file#about-section-srcconfigaboutjs
 
-const description = `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.`;
+const description = `Homestead High School's history club. 
+We discuss general history, cover course content for APUSH and AP US Government, and we also play history bowl..`;
 
 const secondary_button = {
-	display: true,
+	display: false,
 	text: 'Secondary Button',
 	url: 'https://example.com',
 };
 
 const carousel = [
 	{
-		name: 'Latest News',
-		description: `Aute deserunt elit enim est cillum. 
-			Nulla consectetur nostrud nulla voluptate sit eiusmod pariatur ad. 
-			Velit dolore fugiat voluptate enim non nostrud elit culpa pariatur aliquip ad.`,
+		name: 'Meetings',
+		description: `We usually cover history topics through presentations, games, or even sometimes guest speakers.`,
 		image: '/placeholder.png',
 	},
 	{
-		name: 'Image 1',
-		description: `Aute deserunt elit enim est cillum. 
-			Nulla consectetur nostrud nulla voluptate sit eiusmod pariatur ad. 
-			Velit dolore fugiat voluptate enim non nostrud elit culpa pariatur aliquip ad.`,
-		image: '/placeholder2.png',
+		name: 'Events',
+		description: `We hosted the History Bowl & Bee 2024 Northern California Championships. This photo was taken during event setup.`,
+		image: '/eventsetup.jpeg',
 	},
-	{
-		name: 'Image 2',
-		description: `Aute deserunt elit enim est cillum. 
-			Nulla consectetur nostrud nulla voluptate sit eiusmod pariatur ad. 
-			Velit dolore fugiat voluptate enim non nostrud elit culpa pariatur aliquip ad.`,
-		image: '/placeholder3.png',
-	},
+	// {
+	// 	name: 'Image 2',
+	// 	description: `Aute deserunt elit enim est cillum.
+	// 		Nulla consectetur nostrud nulla voluptate sit eiusmod pariatur ad.
+	// 		Velit dolore fugiat voluptate enim non nostrud elit culpa pariatur aliquip ad.`,
+	// 	image: '/placeholder3.png',
+	// },
 ];
 
 // *** DO NOT EDIT *** //

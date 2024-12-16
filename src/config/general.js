@@ -3,14 +3,14 @@
 
 const club_name = 'History Club';
 
-const club_website_description =
-	"Welcome to Homestead History Club's website!";
+const club_website_description = "Welcome to Homestead History Club's website!";
 
 const club_icon = '/logo.png';
 
 const club_email = 'homesteadhistoryclub@gmail.com';
 
-const signup_form = 'https://docs.google.com/forms/d/e/1FAIpQLSdof_csU-0cvoxj7Mo-4VStSO7Sci2QX1JiAQG4gZEJihbEEA';
+const signup_form =
+	'https://docs.google.com/forms/d/e/1FAIpQLSdof_csU-0cvoxj7Mo-4VStSO7Sci2QX1JiAQG4gZEJihbEEA/viewform';
 
 const discord_url = 'BqNeqjkU8A';
 

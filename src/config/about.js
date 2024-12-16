@@ -1,7 +1,7 @@
 // ** For more information on how to edit the config, please read the README.md ** //
 // https://github.com/underscorelior/HHS-Club-Template?tab=readme-ov-file#about-section-srcconfigaboutjs
 
-const display_about = true;
+const display_about = false;
 
 const about_sections = [
 	{

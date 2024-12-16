@@ -3,19 +3,15 @@
 
 const resources_sections = [
 	{
-		title: 'Section 1',
-		content: [
-			'https://example.org/',
-			'https://example.org/',
-			'https://example.org/',
-		],
+		title: 'Protobowl Links',
+		content: ['https://protobowl.com/HHS-history'],
 	},
 	{
-		title: 'Section 2',
+		title: 'History Bowl and Bee Resources',
 		content: [
-			'https://example.com/',
-			'https://example.com/',
-			'https://example.com/',
+			'https://tinyurl.com/HHS-HBB-PracticeResources',
+			'https://www.iacompetitions.com/vjvhistorybee/',
+			'https://www.iacompetitions.com/vjvhistorybowl/',
 		],
 	},
 ];
